@@ -6,7 +6,7 @@ Here’s Satoshi talking about the issue and Zero-Knowledge proofs
 
 ![Satoshi screenshot](https://user-images.githubusercontent.com/25363622/125444238-ef924150-c5c3-411d-9c46-562303b5830b.png)
 
-Source: [bitcointalk](https://archive.li/ow44s)
+Source: [bitcointalk](https://archive.li/ow44s) (Note: If you can't see the above image, please try switching to an incognito tab or disabling any adblockers)
 
 ## Privacy on Bitcoin
 Bitcoin works with an unprecedented level of transparency that most people are not used to dealing with. All Bitcoin transactions are public, traceable, and permanently stored in the Bitcoin network. These transactions can be searched through [blockchain explorer](https://www.blockchain.com/explorer) and [etherscan](https://etherscan.io/) (for Ethereum) by anyone. The bitcoin you might have today might even be tied to a history of transactions involving illegal activities that you might not want to be implicating yourself with.
