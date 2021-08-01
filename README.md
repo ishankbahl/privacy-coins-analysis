@@ -195,7 +195,7 @@ Beam’s goal is to be a private **store of value**, with the addition of **seco
 
 ## Final Thoughts
 
-That’s it, folks. The cryptocurrency world is a high-stakes battle of ideas. In the privacy coin world, different projects are making different tradeoffs. I hope you now have a better understanding of these projects and the ecosystem. Let me know if I got some information wrong. This for originally [published on substack](https://ishankbahl.substack.com/p/analysis-of-on-chain-privacy)
+That’s it, folks. The cryptocurrency world is a high-stakes battle of ideas. In the privacy coin world, different projects are making different tradeoffs. I hope you now have a better understanding of these projects and the ecosystem. Let me know if I got some information wrong. This was originally [published on substack](https://ishankbahl.substack.com/p/analysis-of-on-chain-privacy)
 
 ## License
 
